@@ -96,5 +96,4 @@ Connect with me and follow my work:
 
 <p align="center">
   Made with ❤️ and a passion for creative, modern web design! ✨  
-  Built as part of the <a href="https://elzero.org/">Elzero Web School</a> HTML & CSS course.
 </p>
